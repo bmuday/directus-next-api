@@ -1,0 +1,17 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@directus/sdk": "^10.3.3",
+    "cockroachdb": "^1.0.3",
+    "directus": "^9.23.4"
+  }
+}
